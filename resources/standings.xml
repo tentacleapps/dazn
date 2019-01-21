@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gsmrs version="2.0" sport="soccer" lang="en" last_generated="2013-04-17 15:26:15">
+    <method method_id="12" name="get_tables">
+        <parameter name="id" value="5983" />
+        <parameter name="lang" value="en" />
+        <parameter name="tabletype" value="total" />
+        <parameter name="type" value="season" />
+    </method>
+    <competition competition_id="8" name="Premier League" teamtype="default" display_order="10" type="club" area_id="68" area_name="England" last_updated="2013-04-17 15:21:27" soccertype="default">
+        <season season_id="5983" name="2011/2012" start_date="2011-08-13" end_date="2012-05-30" service_level="0" last_updated="2012-07-12 10:07:57" last_playedmatch_date="2012-05-13">
+            <round round_id="14829" name="Regular Season" start_date="2011-08-13" end_date="2012-05-30" type="table" ordermethod="1" groups="0" has_outgroup_matches="no">
+                <resultstable type="total">
+                    <ranking rank="1" last_rank="1" zone_start="CL" team_id="676" club_name="Manchester City" countrycode="ENG" area_id="68" matches_total="38" matches_won="28" matches_draw="5" matches_lost="5" goals_pro="93" goals_against="29" points="89" />
+                    <ranking rank="2" last_rank="2" team_id="662" club_name="Manchester United" countrycode="ENG" area_id="68" matches_total="38" matches_won="28" matches_draw="5" matches_lost="5" goals_pro="89" goals_against="33" points="89" />
+                    <ranking rank="3" last_rank="3" zone_end="CL" team_id="660" club_name="Arsenal" countrycode="ENG" area_id="68" matches_total="38" matches_won="21" matches_draw="7" matches_lost="10" goals_pro="74" goals_against="49" points="70" />
+                    <ranking rank="4" last_rank="4" zone_start="CL qf" zone_end="CL qf" team_id="675" club_name="Tottenham Hotspur" countrycode="ENG" area_id="68" matches_total="38" matches_won="20" matches_draw="9" matches_lost="9" goals_pro="66" goals_against="41" points="69" />
+                    <ranking rank="5" last_rank="5" zone_start="EuroL" zone_end="EuroL" team_id="664" club_name="Newcastle United" countrycode="ENG" area_id="68" matches_total="38" matches_won="19" matches_draw="8" matches_lost="11" goals_pro="56" goals_against="51" points="65" />
+                    <ranking rank="6" last_rank="6" team_id="661" club_name="Chelsea" countrycode="ENG" area_id="68" matches_total="38" matches_won="18" matches_draw="10" matches_lost="10" goals_pro="65" goals_against="46" points="64" />
+                    <ranking rank="7" last_rank="7" team_id="674" club_name="Everton" countrycode="ENG" area_id="68" matches_total="38" matches_won="15" matches_draw="11" matches_lost="12" goals_pro="50" goals_against="40" points="56" />
+                    <ranking rank="8" last_rank="8" team_id="663" club_name="Liverpool" countrycode="ENG" area_id="68" matches_total="38" matches_won="14" matches_draw="10" matches_lost="14" goals_pro="47" goals_against="40" points="52" />
+                    <ranking rank="9" last_rank="9" team_id="667" club_name="Fulham" countrycode="ENG" area_id="68" matches_total="38" matches_won="14" matches_draw="10" matches_lost="14" goals_pro="48" goals_against="51" points="52" />
+                    <ranking rank="10" last_rank="10" team_id="678" club_name="West Bromwich Albion" countrycode="ENG" area_id="68" matches_total="38" matches_won="13" matches_draw="8" matches_lost="17" goals_pro="45" goals_against="52" points="47" />
+                    <ranking rank="11" last_rank="12" team_id="738" club_name="Swansea City" countrycode="WAL" area_id="209" matches_total="38" matches_won="12" matches_draw="11" matches_lost="15" goals_pro="44" goals_against="51" points="47" />
+                    <ranking rank="12" last_rank="14" team_id="677" club_name="Norwich City" countrycode="ENG" area_id="68" matches_total="38" matches_won="12" matches_draw="11" matches_lost="15" goals_pro="52" goals_against="66" points="47" />
+                    <ranking rank="13" last_rank="11" team_id="683" club_name="Sunderland" countrycode="ENG" area_id="68" matches_total="38" matches_won="11" matches_draw="12" matches_lost="15" goals_pro="45" goals_against="46" points="45" />
+                    <ranking rank="14" last_rank="13" team_id="690" club_name="Stoke City" countrycode="ENG" area_id="68" matches_total="38" matches_won="11" matches_draw="12" matches_lost="15" goals_pro="36" goals_against="53" points="45" />
+                    <ranking rank="15" last_rank="16" team_id="686" club_name="Wigan Athletic" countrycode="ENG" area_id="68" matches_total="38" matches_won="11" matches_draw="10" matches_lost="17" goals_pro="42" goals_against="62" points="43" />
+                    <ranking rank="16" last_rank="15" team_id="665" club_name="Aston Villa" countrycode="ENG" area_id="68" matches_total="38" matches_won="7" matches_draw="17" matches_lost="14" goals_pro="37" goals_against="53" points="38" />
+                    <ranking rank="17" last_rank="17" team_id="702" club_name="Queens Park Rangers" countrycode="ENG" area_id="68" matches_total="38" matches_won="10" matches_draw="7" matches_lost="21" goals_pro="43" goals_against="66" points="37" />
+                    <ranking rank="18" last_rank="18" zone_start="releg" team_id="666" club_name="Bolton Wanderers" countrycode="ENG" area_id="68" matches_total="38" matches_won="10" matches_draw="6" matches_lost="22" goals_pro="46" goals_against="77" points="36" />
+                    <ranking rank="19" last_rank="19" team_id="672" club_name="Blackburn Rovers" countrycode="ENG" area_id="68" matches_total="38" matches_won="8" matches_draw="7" matches_lost="23" goals_pro="48" goals_against="78" points="31" />
+                    <ranking rank="20" last_rank="20" zone_end="releg" team_id="680" club_name="Wolverhampton Wanderers" countrycode="ENG" area_id="68" matches_total="38" matches_won="5" matches_draw="10" matches_lost="23" goals_pro="40" goals_against="82" points="25" />
+                </resultstable>
+            </round>
+        </season>
+    </competition>
+</gsmrs>

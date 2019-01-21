@@ -1,0 +1,32 @@
+PODS:
+  - Nimble (7.3.1)
+  - Quick (1.3.2)
+  - SDWebImage (4.4.3):
+    - SDWebImage/Core (= 4.4.3)
+  - SDWebImage/Core (4.4.3)
+  - XMLMapper (1.5.2):
+    - XMLMapper/Core (= 1.5.2)
+  - XMLMapper/Core (1.5.2)
+
+DEPENDENCIES:
+  - Nimble
+  - Quick
+  - SDWebImage
+  - XMLMapper
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Nimble
+    - Quick
+    - SDWebImage
+    - XMLMapper
+
+SPEC CHECKSUMS:
+  Nimble: 04f732da099ea4d153122aec8c2a88fd0c7219ae
+  Quick: 2623cb30d7a7f41ca62f684f679586558f483d46
+  SDWebImage: c5594f1a19c48d526d321e548902b56b479cd508
+  XMLMapper: e562e26d47ebc9a48370b97b4fd1b03c51148cb6
+
+PODFILE CHECKSUM: 3b0eacccacdeb60eb34b7db71273b56b217ecdf0
+
+COCOAPODS: 1.5.3
